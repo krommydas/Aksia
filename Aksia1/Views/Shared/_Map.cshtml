@@ -1,0 +1,9 @@
+﻿@model WebApp.Models.UserAddressFacade[]
+
+<script>
+	var addresses = @(Html.Raw(Json.Encode(Model)));
+</script>
+
+<div id="map">
+
+</div>

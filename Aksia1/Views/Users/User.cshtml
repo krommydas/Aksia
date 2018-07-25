@@ -1,0 +1,12 @@
+﻿@model WebApp.Models.UserFacade
+
+<h1 class="name">@Model.Name</h1>
+<div class="addresses row">
+	@foreach(var address in Model.Addresses)
+	{
+		<div class="col-lg-12">
+			@RenderPage("UserAddress.cshtml", address)
+		</div>
+	}
+ </div>
+

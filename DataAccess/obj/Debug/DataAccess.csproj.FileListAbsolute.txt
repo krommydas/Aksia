@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\bin\Debug\CommonsSystem.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\bin\Debug\CommonsSystem.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\DataAccess\obj\Debug\DataAccess.pdb

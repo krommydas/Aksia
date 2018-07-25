@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\.Net Projects\Aksia\Commons\bin\Debug\CommonsSystem.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\Commons\bin\Debug\CommonsSystem.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\Commons\obj\Debug\CommonsSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.Net Projects\Aksia\Commons\obj\Debug\CommonsSystem.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\Commons\obj\Debug\CommonsSystem.pdb

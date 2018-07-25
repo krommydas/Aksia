@@ -1,0 +1,21 @@
+﻿@model WebApp.Models.UserFacade[]
+
+<script>
+	var users = @(Html.Raw(Json.Encode(Model)));
+</script>
+<div class="row">
+	<div class="col-lg-6">
+		<div class="row">
+			@foreach (var user in Model)
+			{
+				<div class="col-lg-6">
+					@RenderPage("User.cshtml", user)
+				</div>
+			}
+		</div>
+	</div>
+	<span class="col-lg-6">
+		@RenderPage("~Views/Shared/_Map.cshtml", Enumerable.Empty<WebApp.Models.UserAddressFacade>());
+	</span>
+</div>
+

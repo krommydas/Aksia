@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\CommonsSystem.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\CommonsSystem.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\.Net Projects\Aksia\BusinessLayer\obj\Debug\BusinessLayer.pdb
